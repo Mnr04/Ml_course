@@ -9,7 +9,7 @@ Vous êtes libre de :
 - modifier, transformer et adapter le contenu,
 
 À condition de :
-- **citer l’auteur** original (moi),
+- **citer l’auteur** original ,
 - **ne pas l’utiliser à des fins commerciales**,
 - **partager toute modification sous la même licence**.
 
