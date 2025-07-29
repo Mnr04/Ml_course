@@ -1,5 +1,5 @@
 📘 mlcourse.ai – Open Machine Learning Course
-Ce dépôt contient mes travaux, exercices et notes issus du cours mlcourse.ai, un cours open-source d’apprentissage automatique proposé par la communauté OpenDataScience (ods.ai), dirigé par Yury Kashnitsky.
+Ce dépôt contient mes travaux cours mlcourse.ai, un cours open-source d’apprentissage automatique proposé par la communauté OpenDataScience , dirigé par Yury Kashnitsky.
 
 🎯 Objectif du cours
 Ce cours vise à offrir un équilibre idéal entre théorie mathématique et pratique en data science, en couvrant les bases solides du Machine Learning, de l’analyse exploratoire jusqu’au boosting, avec un fort accent sur la mise en pratique via des notebooks et des compétitions Kaggle.
